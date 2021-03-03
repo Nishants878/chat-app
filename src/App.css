@@ -124,6 +124,8 @@
     font-size: 16px;
     border-radius: 6px;
     max-width: 60%;
+    background-color: #3B2A50 !important;
+    color: white !important;
   }
   
   .message-image {
